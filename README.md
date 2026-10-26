@@ -132,3 +132,11 @@ After completing the setup, the next step was to check that the network was work
 ## Final Thoughts
 
 This is one of my first steps toward gaining practical experience in cybersecurity. I know I still have a lot to learn, but projects like this give me the opportunity to practise, understand the basics better, and improve as I continue my journey in cybersecurity.
+
+
+
+#AUTHOR 
+Olusoji Samuel 
+Cybersecurity intern
+
+#Linkedin profile: https://www.linkedin.com/in/olusoji-samuel-7b0699416/
