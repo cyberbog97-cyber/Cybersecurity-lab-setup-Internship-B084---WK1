@@ -126,7 +126,6 @@ This is useful because cybersecurity practice can involve changing settings, ins
 
 
 After completing the setup, the next step was to check that the network was working correctly and that Kali Linux could communicate with other systems.
-<img width="1265" height="876" alt="image" src="https://github.com/user-attachments/assets/7482e0b1-ffa5-4dd0-8084-198f84f3aceb" />
 
 
 
